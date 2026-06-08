@@ -2,7 +2,7 @@ def alexandra(y):
     w = y - 7
     return w
 def function(x,y):
-    x + y = z
+    z = x + y
     return z
 def thomas(z,x):
     return z*x

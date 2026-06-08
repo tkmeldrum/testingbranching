@@ -1,3 +1,6 @@
+def alexandra(y):
+    w = y - 7
+    return w
 def function(x,y):
     x + y = z
     return z
